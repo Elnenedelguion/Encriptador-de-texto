@@ -9,9 +9,8 @@
 
 This project is a simple text encryptor that allows you to transform words or phrases using a specific pattern. You can encrypt and decrypt text easily.
 
-:point_right:How it Works.
+:point_right:The encryptor follows these substitution rules:
 
-- The encryptor follows these substitution rules:
 
 :small_orange_diamond:“e” with “enter”.
 
@@ -35,9 +34,9 @@ This project is a simple text encryptor that allows you to transform words or ph
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-:point_right: Manual de instalación y uso.
+:point_right:How it works.
 
-:small_orange_diamond:Clone this repository to your local machine.
+:small_orange_diamond:Clone this repo to your local machine.
 
 :small_orange_diamond:Open the index.html file in your web browser.
 
