@@ -1,27 +1,27 @@
-## Challenge Encriptador de texto 
+## Text Encryptor Challenge
 
 ![encriptador de pantalla alura](https://github.com/user-attachments/assets/b30872fb-39a7-48e2-8a4e-c38869ced3a3)
 
 ### Oracle next education - Alura Latam
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-:point_right: Descripcion del Encriptador de texto.
+:point_right: Description of the Text Encryptor.
 
-Este proyecto es un encriptador de texto simple que permite transformar palabras o frases utilizando un patrón específico. Puedes encriptar y desencriptar texto de manera sencilla.
+This project is a simple text encryptor that allows you to transform words or phrases using a specific pattern. You can encrypt and decrypt text easily.
 
-:point_right: Funcionamiento.
+point_right:How it Works.
 
-El encriptador sigue las siguientes reglas de sustitución:
+- The encryptor follows these substitution rules:
 
-:small_orange_diamond:Reemplaza “e” por “enter”.
+:small_orange_diamond:“e” with “enter”.
 
-:small_orange_diamond:Reemplaza “i” por “imes”.
+:small_orange_diamond:“i” with “imes”.
 
-:small_orange_diamond:Reemplaza “a” por “ai”.
+:small_orange_diamond:“a” with “ai”.
 
-:small_orange_diamond:Reemplaza “o” por “ober”.
+:small_orange_diamond:“o” with “ober”.
 
-:small_orange_diamond:Reemplaza “u” por “ufat”.
+:small_orange_diamond:“u” with “ufat”.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
@@ -35,15 +35,15 @@ El encriptador sigue las siguientes reglas de sustitución:
 
 :point_right: Manual de instalación y uso.
 
-:small_orange_diamond:Clona este repositorio en tu máquina local.
+:small_orange_diamond:Clone this repository to your local machine.
 
-:small_orange_diamond:Abre el archivo index.html en tu navegador web.
+:small_orange_diamond:Open the index.html file in your web browser.
 
-:small_orange_diamond:Ingresa el texto que deseas encriptar o desencriptar.
+:small_orange_diamond:Enter the text you want to encrypt or decrypt.
 
-:small_orange_diamond:Haz clic en los botones correspondientes para realizar la acción deseada.
+:small_orange_diamond:Click on the corresponding buttons to perform the desired action.
 
-:small_orange_diamond:El resultado se mostrará en la tarjeta de salida.
+:small_orange_diamond:Result will be displayed on the output card.
 
 
 
