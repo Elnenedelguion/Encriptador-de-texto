@@ -9,7 +9,7 @@
 
 This project is a simple text encryptor that allows you to transform words or phrases using a specific pattern. You can encrypt and decrypt text easily.
 
-point_right:How it Works.
+:point_right:How it Works.
 
 - The encryptor follows these substitution rules:
 
