@@ -28,7 +28,9 @@ This project is a simple text encryptor that allows you to transform words or ph
 :point_right: Stack.
 
 :small_orange_diamond:JavaScript.
+
 :small_orange_diamond:HTML.
+
 :small_orange_diamond:CSS.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
